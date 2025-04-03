@@ -48,8 +48,8 @@ public class calcularArea{
 
     System.out.println("El área del terreno es: " +
      areaTerreno);
-    System.out.println("El precio del terreno es: " +
+    System.out.println("El precio del terreno es: S/." +
      precioTerreno);
   }
-}
+}}
 ```
